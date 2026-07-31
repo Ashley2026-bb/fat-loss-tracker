@@ -1,0 +1,25 @@
+{
+    "name": "减脂追踪 - Fat Loss Tracker",
+    "short_name": "减脂追踪",
+    "description": "记录体重、零食热量与运动消耗，追踪减脂进度",
+    "start_url": "./index.html",
+    "scope": "./",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color": "#F8F9FD",
+    "theme_color": "#6C5CE7",
+    "icons": [
+        {
+            "src": "icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
